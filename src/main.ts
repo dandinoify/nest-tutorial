@@ -6,3 +6,6 @@ async function bootstrap() {
   await app.listen(3000);
 }
 bootstrap();
+
+
+//git remote set-url origin https://<username>:<token>@github.com/<username>/<repository>.git
